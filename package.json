@@ -1,7 +1,7 @@
 {
   "name": "prueba",
   "version": "1.0.0",
-  "description": "",
+  "description": "tobias",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/TobiasETomasella/Prueba.git"
   },
-  "author": "",
+  "author": "tobiastomasella",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/TobiasETomasella/Prueba/issues"
